@@ -13,7 +13,7 @@ The images are loaded from the GitHub repository (raw)
 
 So when updating it is important to:
 - Update the gist
-- Copy the raw gist link (!!! RAW !!!)
+- Copy the **raw** gist link! (RAW!)
 - Update the gist link in het_verhaal.html for housekeeping
 - Update the gist link in congressus on the page which includes the timeline, which results in the actual changes on site
 

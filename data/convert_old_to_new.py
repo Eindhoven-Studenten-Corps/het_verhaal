@@ -12,7 +12,7 @@ def convert_old_format_to_new(old_format):
     try:
         new_format = {
             "media": {
-                "url": "https://github.com/Eindhoven-Studenten-Corps/het_verhaal/blob/main/images/dankwoord.jpg?raw=true",
+                "url": None,
                 "caption": old_format["asset"]["caption"],
                 "credit": old_format["asset"]["credit"]
             },

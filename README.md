@@ -18,3 +18,7 @@ So when updating it is important to:
 - Update the gist link in congressus on the page which includes the timeline, which results in the actual changes on site
 
 If you want you could try to store the images and the data.json in Congressus directly and find out how file reference system works but I am not going to bother.
+
+Also optional is changing the style of the timeline: https://timeline.knightlab.com/docs/overriding-styles.html
+
+Load the new css using a public link!

@@ -1,8 +1,9 @@
 {
+  "scale": "human",
   "title": {
     "media": {
       "url": "https://github.com/Eindhoven-Studenten-Corps/het_verhaal/blob/main/images/het-verhaal-logo.jpg?raw=true",
-      "caption": "",
+      "caption": "Test caption",
       "credit": "Het Eindhovens Studenten Corps"
     },
     "text": {
@@ -13,7 +14,7 @@
   "events": [
     {
       "media": {
-        "url": "",
+        "url": "https://github.com/Eindhoven-Studenten-Corps/het_verhaal/blob/main/images/dankwoord.jpg?raw=true",
         "caption": "",
         "credit": "Sponsors"
       },
